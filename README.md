@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 👨‍💻 I work at SSW - check out my other profile: https://www.ssw.com.au/people/andreas-lengkeek
-- 🔭 I’m currently working on a project with .NET Core, Angular and Azure Functions ⚡
-- 🌱 I’m currently learning all about Azure Service Bus
+- 🔭 I’m currently working on a project with .NET Core, Blazor WASM and SQL Server ⚡
+- 🌱 I’m currently learning all about DevOps with GitHub and Azure
 - 👯 I’m looking to collaborate anywhere I can
 - 📫 How to reach me: 🐦 @AndreasLengkeek
-- ⚡ Fun fact: I love endurance running and swimming
+- ⚡ Fun fact: I love endurance running swimming and pretending to be a chef 👨‍🍳
 
 [![Andreas's github stats](https://github-readme-stats.vercel.app/api?username=andreaslengkeek&theme=dark)](https://github.com/andreaslengkeek/github-readme-stats)
 
